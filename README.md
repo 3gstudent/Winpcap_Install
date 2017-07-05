@@ -9,4 +9,4 @@ License: BSD 3-Clause
 
 - Need Administrator permission
 - Support x86 and x64
-- Use to start masscan or nmap. Maybe other tools need more files of WinPcap.
+- Use to start masscan or nmap on Windows System. Maybe other tools need more files of WinPcap.
