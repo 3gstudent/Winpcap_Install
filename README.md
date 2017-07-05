@@ -5,6 +5,8 @@ Reverse the installation of Winpcap and use the Install_Winpcap.bat to achieve t
 
 Author: 3gstudent@3gstudent
 
+License: BSD 3-Clause
+
 - Need Administrator permission
 - Support x86 and x64
 - Use to start masscan or nmap. Maybe other tools need more files of Winpcap.
