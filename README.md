@@ -1,7 +1,7 @@
-# Winpcap_Install
-Auto install Winpcap on Windows(command line)
+# WinPcap_Install
+Auto install WinPcap on Windows(command line)
 
-Reverse the installation of Winpcap and use the Install_Winpcap.bat to achieve the same goal.
+Reverse the installation of WinPcap and use the Install_Winpcap.bat to achieve the same goal.
 
 Author: 3gstudent@3gstudent
 
