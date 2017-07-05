@@ -1,5 +1,7 @@
 # Winpcap_Install
-Auto install winpcap on Windows(command line)
+Auto install Winpcap on Windows(command line)
+
+Use to start masscan or nmap.Maybe other tools need more files of Winpcap.
 
 Author: 3gstudent@3gstudent
 
